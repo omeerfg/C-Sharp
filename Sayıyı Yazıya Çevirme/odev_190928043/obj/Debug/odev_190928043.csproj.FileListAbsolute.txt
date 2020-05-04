@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\odev_190928043\odev_190928043\obj\Debug\odev_190928043.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\odev_190928043\odev_190928043\obj\Debug\odev_190928043.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\odev_190928043\odev_190928043\bin\Debug\odev_190928043.exe.config
+C:\Users\LENOVO\source\repos\odev_190928043\odev_190928043\bin\Debug\odev_190928043.exe
+C:\Users\LENOVO\source\repos\odev_190928043\odev_190928043\bin\Debug\odev_190928043.pdb
+C:\Users\LENOVO\source\repos\odev_190928043\odev_190928043\obj\Debug\odev_190928043.exe
+C:\Users\LENOVO\source\repos\odev_190928043\odev_190928043\obj\Debug\odev_190928043.pdb
+C:\Users\LENOVO\Desktop\odev_190928043\odev_190928043\bin\Debug\odev_190928043.exe.config
+C:\Users\LENOVO\Desktop\odev_190928043\odev_190928043\bin\Debug\odev_190928043.exe
+C:\Users\LENOVO\Desktop\odev_190928043\odev_190928043\bin\Debug\odev_190928043.pdb
+C:\Users\LENOVO\Desktop\odev_190928043\odev_190928043\obj\Debug\odev_190928043.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\odev_190928043\odev_190928043\obj\Debug\odev_190928043.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\odev_190928043\odev_190928043\obj\Debug\odev_190928043.exe
+C:\Users\LENOVO\Desktop\odev_190928043\odev_190928043\obj\Debug\odev_190928043.pdb
